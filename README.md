@@ -1,4 +1,4 @@
-# How to Build Kubernets Cluster with Jenkins using Terraform and HELM 
+# How to Build Kubernetes Cluster with Jenkins using Terraform and HELM 
 
 This module creates a networked environment consisting of two subnets for each Availability Zone, and places
 AWS services, NAT Gateway and Internet Gateway into the environment.
